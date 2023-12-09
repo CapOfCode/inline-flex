@@ -3,11 +3,11 @@
 [Live Website](https://codewithrashed.github.io/fruit_shop/)
 
 ## Description
-Experience exotic tastes at your doorstep with the Fruit Shop Website.
+Fruit Shop is a static one-page website made with tailwind CSS. 
 
 ## Technologies Used
 - HTML
-- CSS (Tailwind CSS)
+-Tailwind CSS
 
 
 ## Knowledge
